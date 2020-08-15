@@ -1,2 +1,2 @@
 # NLP-Projelerim
-türkçe cümleleri heceleri ayırmaya yarıyan bir program 
+türkçe cümleleri hecelere ayırmaya yarıyan bir program 
